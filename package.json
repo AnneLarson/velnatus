@@ -1,0 +1,30 @@
+{
+  "name": "velnatus",
+  "version": "1.0.0",
+  "description": "React typewriter component written in TypeScript with React 18",
+  "main": "dist/Typewriter.js",
+  "types": "dist/Typewriter.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnneLarson/velnatus.git"
+  },
+  "keywords": [
+    "aut",
+    "ut",
+    "types",
+    "components"
+  ],
+  "type": "module",
+  "author": "BrandynWelch",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/AnneLarson/velnatus.git/issues"
+  },
+  "homepage": "https://github.com/AnneLarson/velnatus.git",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.14"
+  }
+}
